@@ -41,8 +41,8 @@
 *.dwo
 
 # Python virtual environments
-venv/
-.venv/
-*/venv/
-*/.venv/
-lab1/venv/
+venv
+.venv
+*/venv
+*/.venv
+lab1/venv
