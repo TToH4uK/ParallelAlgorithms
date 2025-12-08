@@ -129,8 +129,8 @@ class DependencyAnalyzer:
 
 if __name__ == "__main__":
 
-    M_val = 4
-    N_val = 5 # i идет от 1 до 5
+    M_val = 3
+    N_val = 3 # i идет от 1 до 5
     
     analyzer = DependencyAnalyzer(M_val, N_val)
     analyzer.run_simulation()
